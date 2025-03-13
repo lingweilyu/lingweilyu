@@ -1,10 +1,25 @@
-# Hello World
-### 😉About me
+<div align="center">
+<img src="./greetings.gif" align="center" style="width: 50%" />
+</div> 
+
+# Hi I'm Lingwei LYU 吕翎玮
+
+<a href="https://scholar.google.com/citations?user=am5KtrcAAAAJ&hl=en" target="_blank">
+<img src=https://img.shields.io/badge/googlescholar-%230F9D58?&style=for-the-badge&logo=googlescholar&logoColor=white alt=googlescholar style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/lingweilyu" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/lingwei-lyu-2bb940332/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+
+### About me
 Base Singapore<img src="https://emojis.wiki/thumbs/emojis/singapore.webp" width="40" height="20"/> From Enshi, Hubei, China<img src="https://emojis.wiki/thumbs/emojis/china.webp" width="40" height="20"/>湖北恩施人，暂居新加坡
 
-Studying biomedicine, mainly doing wet lab with bioinformation as an aid🔬生物医学系学生，主做湿实验，顺便做做生信
+Studying biomedicine in NUS, mainly doing wet lab with bioinformation as an aid🔬生物医学系学生，主做湿实验，顺便做做生信
 
-Nice to meet you👋很高兴认识你
+Nice to meet you🤝很高兴认识你
 
 <h2 align>
 
