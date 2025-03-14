@@ -4,7 +4,7 @@
 
 # Hi I'm Lingwei LYU 吕翎玮
 
-<a href="https://scholar.google.com/citations?user=am5KtrcAAAAJ&hl=en" target="_blank">
+<a href="https://scholar.google.com/citations?user=am5KtrcAAAAJ" target="_blank">
 <img src=https://img.shields.io/badge/googlescholar-%230F9D58?&style=for-the-badge&logo=googlescholar&logoColor=white alt=googlescholar style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/lingweilyu" target="_blank">
