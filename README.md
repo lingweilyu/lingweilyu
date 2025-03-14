@@ -17,7 +17,7 @@
 ### About me
 Base Singapore<img src="https://emojis.wiki/thumbs/emojis/singapore.webp" width="40" height="20"/> From Enshi, Hubei, China<img src="https://emojis.wiki/thumbs/emojis/china.webp" width="40" height="20"/>湖北恩施人，暂居新加坡
 
-Studying biomedicine in<a href="https://medicine.nus.edu.sg" target="_blank"><img src="https://medicine.nus.edu.sg/graduatestudies/wp-content/uploads/sites/16/2023/05/NUS-Med-Logo-Landscape-01-final.png" width="100" height="20"/></a>, mainly doing wet lab with bioinformation as an aid🔬现为新加坡国立大学杨潞龄医学院生物医学系学生，主做湿实验，顺便做做生信
+Studying biomedicine in[<img src="https://medicine.nus.edu.sg/graduatestudies/wp-content/uploads/sites/16/2023/05/NUS-Med-Logo-Landscape-01-final.png" width="100" height="20"/>](https://medicine.nus.edu.sg), mainly doing wet lab, with bioinformation and some other dry lab skills as an aid, this is the reason why I can do some programming🔬现为新加坡国立大学杨潞龄医学院生物医学系学生，主做湿实验，顺便做做生信，所以会点编程
 
 Nice to meet you🤝很高兴认识你
 
