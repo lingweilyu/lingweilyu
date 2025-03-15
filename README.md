@@ -1,9 +1,13 @@
+# <div align="center">Welcome to my homepage</div> 
+
 <div align="center">
 <img src="./greetings.gif" align="center" style="width: 50%" />
 </div> 
 
-# Hi I'm Lingwei LYU 吕翎玮
-
+<div align="center">
+<a href="https://lingweilyu.github.io/" target="_blank">
+<img src=https://img.shields.io/badge/homepage-%23071D49?&style=for-the-badge&logo=homeassistantcommunitystore&logoColor=white alt=homepage style="margin-bottom: 5px;" />
+</a>
 <a href="https://scholar.google.com/citations?user=am5KtrcAAAAJ" target="_blank">
 <img src=https://img.shields.io/badge/googlescholar-%230F9D58?&style=for-the-badge&logo=googlescholar&logoColor=white alt=googlescholar style="margin-bottom: 5px;" />
 </a>
@@ -13,6 +17,7 @@
 <a href="https://www.linkedin.com/in/lingwei-lyu-2bb940332/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
+</div> 
 
 ### About me
 Base Singapore<img src="https://emojis.wiki/thumbs/emojis/singapore.webp" width="40" height="20"/> From Enshi, Hubei, China<img src="https://emojis.wiki/thumbs/emojis/china.webp" width="40" height="20"/>湖北恩施人，暂居新加坡
