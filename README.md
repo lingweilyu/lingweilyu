@@ -1,4 +1,4 @@
-# <div align="center">Welcome to my Github</div> 
+# <div align="center">Welcome to my GitHub</div> 
 
 <div align="center">
 <img src="./greetings.gif" align="center" style="width: 50%" />
