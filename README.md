@@ -1,8 +1,6 @@
-<!-- other content -->
-
-Updated on: 2025.03.17
-
-<!-- other content -->
+      <div class="update-record">
+        Updated on: {{ site.time | date: "%Y.%m.%d" }}
+      </div>
 
 # <div align="center">Welcome to my GitHub!</div> 
 
