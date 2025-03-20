@@ -1,9 +1,9 @@
-name: Update Date
+name: Update README Date
 
 on:
   push:
     paths:
-      - '_lingweilyu/README.md'
+      - 'README.md'
 
 jobs:
   update-readme-date:
@@ -13,7 +13,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
-      - name: Update date
+      - name: Update README date
         run: |
           today=$(date +"%Y-%m-%d")
           sed -i "s/updated on [0-9-]*/updated on $today/" README.md
