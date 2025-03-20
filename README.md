@@ -1,10 +1,10 @@
+# <div align="center">Welcome to my GitHub!</div>
+
 <!-- other content -->
 
 Last updated on updated on 2025-03-17
 
 <!-- other content -->
-
-# <div align="center">Welcome to my GitHub!</div>
  
 <div align="center">
 <img src="./greetings.gif" align="center" style="width: 50%" />
