@@ -1,7 +1,3 @@
-      <div class="update-record">
-        Updated on: {{ site.time | date: "%Y.%m.%d" }}
-      </div>
-
 # <div align="center">Welcome to my GitHub!</div> 
 
 <div align="center">
