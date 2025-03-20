@@ -1,6 +1,6 @@
 <!-- other content -->
 
-Updated on 2025.03.17
+Updated on YYYY-MM-DD
 
 <!-- other content -->
 
